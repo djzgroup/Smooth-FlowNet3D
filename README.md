@@ -1,4 +1,4 @@
-# Smooth-FlowNet3D: Smooth-FlowNet3D: Bridging the Domain Gap in Scene Flow Estimation via Hierarchical Smoothness Refinement
+# Smooth-FlowNet3D: Bridging the Domain Gap in Scene Flow Estimation via Hierarchical Smoothness Refinement
 
 <img src="./images/SmoothFlowNet3D_Overview.png" width=100%>
 
